@@ -114,22 +114,10 @@ The model achieves:
 - Validation Accuracy: ~85%
 - Early stopping implemented to prevent overfitting
 
-## 🌐 Deployment
-
-The Streamlit app can be deployed on various platforms:
-- Streamlit Cloud
-- Heroku
-- AWS EC2
-- Google Cloud Platform
-
 ## 👨‍💻 Developer
 
 **Anujan**  
 Faculty of IT, University of Moratuwa
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
